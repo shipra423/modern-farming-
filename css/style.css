@@ -1,0 +1,5 @@
+.glass-card{background:rgba(255,255,255,.88);backdrop-filter:blur(14px)}
+.hero-bg{background:radial-gradient(circle at 10% 20%,#F2F8F5 0%,#FEFBF6 60%,#F5EEE0 100%)}
+.vbtn{border:1px solid #ECE6D9;background:#fff;border-radius:.5rem;padding:.4rem;font-size:.75rem;font-weight:600}
+.vbtn.on{border-color:#1B4332;background:#F2F8F5;box-shadow:0 0 0 1px #1B4332}
+.active-nav{color:#2D6A4F;border-bottom:2px solid #E9A23B}
